@@ -1,4 +1,4 @@
-## Welcome to GitHub Pagess
+## Welcome to GitHub Pages
 
 ### Markdown
 
